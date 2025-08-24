@@ -45,7 +45,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/Career-Compass.git
+   git clone https://github.com/zerrri/Career-Compass.git
    cd Career-Compass
    ```
 
